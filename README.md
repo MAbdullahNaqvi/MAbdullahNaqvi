@@ -1,5 +1,5 @@
 ## About Me:
-I am a self taught python web developer whith many projects created using Django and Flask frameworkss. I am currently enrolled in Whales collage and persueing my A-levels. I am very proficient in Python, HTML and JavaScript. I also like to create games in my free time using Unity and C#. I am currently on the look for junior developer job to further hone my skills and get work expirence.
+I am a self taught python web developer whith many projects created using Django and Flask frameworkss. I am currently enrolled in Whales collage and persueing my A-levels. I am very proficient in Python, HTML and JavaScript. I also like to create games in my free time using Unity and C#. I am currently on the look for junior developer job to further hone my skills and get work expirence. I am looking for FullStack or BackEnd programming positions ideally writting Python code alongside Js and HTML CSS. If you are Hiring LETS CHAT! 😊
 
 ## 👨‍🎓Qualifications:
 - O-levels.
