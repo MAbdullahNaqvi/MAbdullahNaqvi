@@ -6,8 +6,8 @@ I am a self taught python web developer whith many projects created using Django
 - Harvard University's CS50 computer science course [Course Completion Certificate](https://cs50.harvard.edu/certificates/f222a311-9a64-45c3-a0d4-c7eda391f316 "Certificate").
 - Currently Persueing my A-levels From Whales Collage Karachi.
 
-> I started Codding when I was 9 and instanly loved it. I then started learning to make video games and spent my off time making things I liked latter on I learned about web development and tried It and seeing myself enjoy it alot I decided to persue it as my main carrer. I very much enjoy problem solving and brainstroming and love when I can come up with faster and better solutions to a problem.
+> I started Codding when I was 9 and instanly loved it. I then started learning to make video games and spent my off time making things I liked latter on I learned about web development and tried It and seeing myself enjoy it alot I decided to learn more about it. I very much enjoy problem solving and brainstroming and love when I can come up with faster and better solutions to a problem.
 
 * I am Currently learning aritficial inteligence with Harverds Intermediate Course CS50AI
 * I am also working on the Final Project for my Harvard Intermediate course CS50 Web Development with JavaScript and Python.
-* I am also Working on a Finance Budgeting Website that is unlike anyother and can take care of managing your monthly budget so you dont have to with many advance features.
+* I am also Working on Website to teach computer science to under privledged kids in Pakistan in Urdu Stay Tuned! 
